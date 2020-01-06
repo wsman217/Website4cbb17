@@ -47,3 +47,14 @@ nav a {
 nav li a:hover {
     background-color: #111111;
 }
+
+#info {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 16px;
+    height: auto;
+    width: 45%;
+    background: #111111;
+    color: #ffffff;
+    font-size: 25px;
+}
