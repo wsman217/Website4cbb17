@@ -1,0 +1,39 @@
+.left {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 8px;
+    height: auto;
+    width: 75%;
+}
+
+.left img {
+    float: left;
+}
+
+.right {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 8px;
+    height: auto;
+    width: 75%;
+}
+
+.right img {
+    float: right;
+}
+
+.info {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name {
+    margin: 0;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+}
