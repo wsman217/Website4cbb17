@@ -47,3 +47,11 @@ nav a {
 nav li a:hover {
     background-color: #111111;
 }
+
+#title {
+    text-align: center;
+    font-size: 60px;
+    color: #4cbb17;
+    font-family: 'Oswald', sans-serif;
+    margin: 30px;
+}
